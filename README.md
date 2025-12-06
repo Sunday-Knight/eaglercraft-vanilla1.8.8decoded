@@ -4,11 +4,11 @@ source from the true, one and only, eaglercraft.com, without gzip or base 64 enc
 {
 original download is separate from decode, called ...Offline_Signed.html. 
 
-Intermediate decode step is the one thats called decoded20251206000033, WITHOUT the (1) or (2)
+Intermediate decode step is the one thats called decoded20251206000033, WITHOUT the (1)
 
-Fully decoded line 35 is the one with (1) and the one with (2)
+Fully decoded line 35 is the ones with (1) 
 
-yowza my decoded is bigger than 25 mb gotta split it
+yowza my decoded is bigger than 25 mb gotta split it so there is _1 and _2 both in txt
 
 other minor codes can be decoded with AI, chatgpt. Will upload if I become unlazy and upon request
 }
